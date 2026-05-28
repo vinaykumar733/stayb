@@ -1,0 +1,6 @@
+{
+  "name": "StayBroker",
+  "description": "PG and Hostel business marketplace platform for buyers, sellers, brokers, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
